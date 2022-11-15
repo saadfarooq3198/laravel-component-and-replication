@@ -1,0 +1,1 @@
+<x-product-component :allProducts="$products"/>
